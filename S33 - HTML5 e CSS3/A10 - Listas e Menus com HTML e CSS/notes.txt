@@ -1,0 +1,2 @@
+- ordered list
+type="X" tal que x e {A, a, I, i, 1}

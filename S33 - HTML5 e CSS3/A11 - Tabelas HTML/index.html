@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 600px;
+        }
+    
+        table caption {
+            font-size: 12px;
+            caption-side: bottom;
+            text-align: right;
+            font-style: italic;
+            margin: 3px 0;
+        }
+
+        td, th {
+            border: 1px solid #ccc;
+            padding: 2px 5px;
+            text-align: center;
+        }
+
+        tfoot td {
+            background: #ccc;
+            font-style: italic;
+        }
+
+        .responsive-table {
+            max-width: 100%;
+            overflow-x: auto; 
+        }
+
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel delectus natus, exercitationem cum fugiat nisi quaerat, explicabo corrupti beatae consequuntur mollitia error! Quaerat ipsa earum velit harum, illum minima architecto?</p>
+
+    <div class="responsive-table">
+        <table>
+            <caption>Distribuição normal dos alunos do Juvêncio</caption>
+            <thead>
+                <tr>
+                    <th>Título 1</th>
+                    <th>Título 2</th>
+                    <th>Título 3</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Célula 1</td>
+                    <td>Célula 1</td>
+                    <td>Célula 1</td>
+                </tr>
+                <tr>
+                    <td colspan="2" rowspan="2">Aqui</td>
+                    <td>Célula 1</td>
+                </tr>
+
+                <tr>
+                    <td>Célula 1</td>
+                </tr>
+
+                <tr>
+                    <td>Célula 1</td>
+                    <td>Célula 1</td>
+                    <td>Célula 1</td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <td colspan="2" rowspan="2"></td>
+                    <td rowspan="2"> Total: 69</td>
+                </tr>
+                <tr>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</body>
+</html>
