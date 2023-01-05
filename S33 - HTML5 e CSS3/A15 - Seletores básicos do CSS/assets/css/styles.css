@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div .main-content h2.heading {
+    font-style: italic;
+    color: red;
+}
+
+div {
+    /* color: initial; */
+    color: inherit;
+    margin-left: 20px;
+}
+
+.fai {
+    color: red;
+}
+
+.pai > .filha {
+    color: cyan;
+}
+
+.father h1+p {
+    color: blue;
+}
+
+.father p+h1 {
+    color: green;
+}
+
+.father h1~p {
+    color: rebeccapurple;
+}
