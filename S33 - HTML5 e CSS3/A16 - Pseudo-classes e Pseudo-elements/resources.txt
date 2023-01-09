@@ -1,0 +1,3 @@
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/:not
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child
