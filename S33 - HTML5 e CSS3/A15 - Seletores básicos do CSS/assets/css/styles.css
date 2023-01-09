@@ -33,3 +33,23 @@ div {
 .father h1~p {
     color: rebeccapurple;
 }
+
+[meu-atributo] {
+    color: pink;
+}
+
+[meu-atributo~="valor1"] {
+    color: magenta;
+}
+
+[meu-atributo^="v"] {
+    color: azure;
+}
+
+[meu-atributo$="r1"] {
+    color: azure;
+}
+
+[meu-atributo*="r"] {
+    color: azure;
+}
