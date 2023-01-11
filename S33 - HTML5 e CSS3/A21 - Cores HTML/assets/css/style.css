@@ -1,0 +1,7 @@
+.grid .col {
+    width: 200px;
+    height: 200px;
+    background: hsla(0, 75%, 75%, 75%);
+    margin: 20px;
+    float: right;
+}

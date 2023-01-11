@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.gric::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.grid .col {
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: 20px;
+    float: right;
+}
+
+p {
+    clear: right;
+}

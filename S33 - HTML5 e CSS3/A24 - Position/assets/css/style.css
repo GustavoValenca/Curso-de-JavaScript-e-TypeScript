@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.filha1, .filha2 {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    position: static;
+}
+
+.filha1 {
+    background: red;
+    top: 50px;
+    left: 50px;
+    position: absolute;
+    position: relative;
+}
+
+.filha2 {
+    background: yellow;
+}
+
+ul {
+    height: 100px;
+    overflow: auto;
+}
+
+
+ul li.sticky {
+    position: sticky;
+    background: gray;
+    top: 0;
+}
