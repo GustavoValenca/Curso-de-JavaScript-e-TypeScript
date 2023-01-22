@@ -1,0 +1,6 @@
+box-shadow: 0 0 15px 0 blue;
+
+0  : -esquerda +direita
+0  : -topo     +embaixo
+15 : sombra
+0  : espaçamento
