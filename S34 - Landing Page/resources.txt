@@ -1,1 +1,4 @@
 https://github.com/luizomf/landing-page-cursojs/commit/185c0bc9daa4fcf1cb213ea70ffe4d722c326e28
+CodePen - https://codepen.io/luizomf/full/KKNwMeG
+Github - https://github.com/luizomf/landing-page-cursojs
+Background SVG - https://www.svgbackgrounds.com/#confetti-doodles
