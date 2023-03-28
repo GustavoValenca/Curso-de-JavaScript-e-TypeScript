@@ -1,0 +1,1 @@
+com var vc pode redeclarar variaveis, o que não é desejável.
