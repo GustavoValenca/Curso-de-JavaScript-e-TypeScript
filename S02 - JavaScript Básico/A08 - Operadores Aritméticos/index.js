@@ -1,5 +1,5 @@
 let contador = 1;
 console.log(contador++);
 console.log(++contador);
-const n = parseInt('1');
+const n = Number('1');
 console.log(typeof n);
