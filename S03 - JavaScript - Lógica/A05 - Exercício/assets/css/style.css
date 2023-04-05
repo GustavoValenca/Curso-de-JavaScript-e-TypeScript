@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding: 20px 10px 20px 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+.main-text p {
+    padding: 5px 0px;
+}
+
+footer {
+    width: 100%;
+    padding: 30px 10px 30px 10px;
+    background-color: lightgray;
+    position: relative;
+    bottom: 0;
+}
+
+button {
+    padding: 10px 30px;
+}
+
