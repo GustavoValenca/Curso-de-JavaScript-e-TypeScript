@@ -1,4 +1,0 @@
-node index.js
-
-Removed ssh key whats gonna happen?
-Did I push?
