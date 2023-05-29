@@ -1,2 +1,2 @@
-- Executar:
+Executar:
     node index.js
