@@ -1,8 +1,0 @@
-Bold vs strong:
-https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/strong
-
-rel nos links:
-https://developers.google.com/search/docs/advanced/appearance/qualify-outbound-links?hl=pt-br
-
-todas as tags:
-https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
