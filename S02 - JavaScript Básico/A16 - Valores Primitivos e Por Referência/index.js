@@ -5,8 +5,8 @@ Referência (mutável) - array, object, function
 */
 
 let a = [1, 2, 3];
-let b = [...a];
-let c = a;
+let b = [...a];  // o valor de a é copiado
+let c = a;  // valor passado por referência
 
 a.push(4);
 console.log(a, b, c);
